@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The short film "Ray Harmon"]]></title>
+        <description><![CDATA[The short film "Ray Harmon"]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 22:39:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CLICK HERE to support Ray Harmon Short Film]]></title>
+            <description><![CDATA[<article><h1>CLICK HERE to support Ray Harmon Short Film</h1><p>When life gives you lemons, Ray makes lemonade! An elderly man celebrates life by helping others. | Crowdfunding is a democratic way to support the fundraising needs of your community. Make a contribution today!</p></article>]]></description>
+            <link>https://www.indiegogo.com/projects/ray-harmon-short-film/x/8712028#/</link>
+            <guid isPermaLink="false">e1fc7527-fc32-4318-96c2-83b637feb28b</guid>
+            <pubDate>Sat, 28 Nov 2015 22:39:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
