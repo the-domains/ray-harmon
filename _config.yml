@@ -1,6 +1,6 @@
 name: 'Ray Harmon '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26116
 typography_spectrum: 0.75266
 title: 'The short film "Ray Harmon"'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010504'
-    - '#f0edcc'
-    - '#b0b271'
-    - '#7f8547'
-    - '#725b4d'
+    - '#8b98a0'
+    - '#bcc6c7'
+    - '#1b1209'
+    - '#6a593f'
+    - '#f16f81'
   brandStrength: 0
   lightness: 0.012536586495116353
-  saturation: 0.8222492993809283
+  saturation: 0
   rhythmicContrast: 0.25
 purpose: []
