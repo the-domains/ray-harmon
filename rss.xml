@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The short film "Ray Harmon"]]></title>
         <description><![CDATA[The short film "Ray Harmon"]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ray-harmon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 22:39:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 22:39:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ray-harmon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1447980150/friykpwnf1ekxkohg2iz.jpg">]]></description>
+            <link>https://thegrid.ai/ray-harmon/b21d9a80-af2f-4ccf-b41b-ffb294561968/index.html</link>
+            <guid isPermaLink="false">b21d9a80-af2f-4ccf-b41b-ffb294561968</guid>
+            <pubDate>Sat, 28 Nov 2015 22:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CLICK HERE to support Ray Harmon Short Film]]></title>
             <description><![CDATA[<article><h1>CLICK HERE to support Ray Harmon Short Film</h1><p>When life gives you lemons, Ray makes lemonade! An elderly man celebrates life by helping others. | Crowdfunding is a democratic way to support the fundraising needs of your community. Make a contribution today!</p></article>]]></description>
