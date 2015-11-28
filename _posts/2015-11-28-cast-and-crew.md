@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://rayharmonmovie.com'
   name: Rayharmonmovie
-  favicon: null
   domain: rayharmonmovie.com
+  url: 'http://rayharmonmovie.com'
+  favicon: null
 keywords:
   - ray
   - trinkets
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://rayharmonmovie.com/category/cast-crew/'
 title: 'Cast & Crew'
-datePublished: '2015-11-28T22:41:33.979Z'
-dateModified: '2015-11-28T22:40:44.714Z'
+datePublished: '2015-11-28T22:45:37.283Z'
+dateModified: '2015-11-28T22:45:31.698Z'
 sourcePath: _posts/2015-11-28-cast-and-crew.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
